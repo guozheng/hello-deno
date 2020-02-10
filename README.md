@@ -9,3 +9,5 @@ going to the deno land (https://deno.land/)
 brew install deno
 deno --allow-net server.ts
 ```
+
+Open http://localhost:8000/ to see the running server.
